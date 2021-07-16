@@ -1,2 +1,2 @@
 # Estudos Python
- Repositorio do curso de python
+ Repositorio para acompanhar meus estudos em Python.
